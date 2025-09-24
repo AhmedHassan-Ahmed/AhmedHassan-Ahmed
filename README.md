@@ -33,7 +33,7 @@ Designed with ❤️ | Futuristic • Clean • Animated • Developer-Centric
 ---
 
 ## 🌌 **My Origin Story**  
-From writing my first `console.log("Hello, World!")` to just stepping into the professional world at **Codveda Technologies**, I’ve discovered one truth: **great software begins with curiosity and persistence**.  
+From writing my first `console.log("Hello, World!")` to just stepping into the professional world at **web devolopment**, I’ve discovered one truth: **great software begins with curiosity and persistence**.  
 
 I’m **Ahmed Hassan Ahmed** — an aspiring **full-stack developer** with a passion for **problem-solving and creative coding**.  
 

@@ -10,30 +10,23 @@ Designed with ❤️ | Futuristic • Clean • Animated • Developer-Centric
 <br/>
 
 <div align="center">
-  <pre>
-  <code>
-<span style="color:#00F5FF">     ___   _   _   __  __   ______   ______   _____  
-    / _ \ | | | | |  \/  | |  ____| |  ____| |  __ \ 
-   / /_\ \| | | | | \  / | | |__    | |__    | |  | |
-  |  _  || | | | | |\/| | |  __|   |  __|   | |  | |
-  | | | || |_| | | |  | | | |____  | |____  | |__| |
-  |_| |_| \___/  |_|  |_| |______| |______| |_____/ 
-                                                    
-        ██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ███╗   ██╗
-        ██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗████╗  ██║
-        ███████║███████║███████╗███████╗███████║██╔██╗ ██║
-        ██╔══██║██╔══██║╚════██║╚════██║██╔══██║██║╚██╗██║
-        ██║  ██║██║  ██║███████║███████║██║  ██║██║ ╚████║
-        ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-</span>
-  </code>
-</pre>
+  <pre style="text-align: center; color: #00F5FF; font-family: monospace;">
+        █████╗ ██╗  ██╗███╗   ███╗███████  ██████╗            ██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ███╗   ██╗
+       ██╔══██╗██║  ██║████╗ ████║██╔════╝ ██╔══██╗           ██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗████╗  ██║
+       ███████║███████║██╔████╔██║█████╗   ██║  ██║           ███████║███████║███████╗███████╗███████║██╔██╗ ██║
+       ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝   ██║  ██║           ██╔══██║██╔══██║╚════██║╚════██║██╔══██║██║╚██╗██║
+       ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗ ██████╔╝           ██║  ██║██║  ██║███████║███████║██║  ██║██║ ╚████║
+       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝ ╚═════╝            ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+  </pre>
+  <p>
+    <span style="color: #00F5FF; font-weight: bold; font-size: 1.4em; letter-spacing: 2px;">🌟 AHMED HASSAN 🌟</span>
+  </p>
 </div>
 
 ---
 
 ## 🌌 **My Origin Story**  
-From writing my first `console.log("Hello, World!")` to just stepping into the professional world at **web devolopment**, I’ve discovered one truth: **great software begins with curiosity and persistence**.  
+From my first console.log("Hello, World!") to building responsive UIs, I’ve learned that great software begins with curiosity and persistence — and I’m driven to master both frontend and backend as a future full-stack developer. 
 
 I’m **Ahmed Hassan Ahmed** — an aspiring **full-stack developer** with a passion for **problem-solving and creative coding**.  
 
@@ -90,20 +83,7 @@ My coding journey is like a game of chess:
 
 As I grow, I combine **logic + creativity** to craft solutions that don’t just work, but *inspire*.  
 
----
 
-## 📊 **GitHub Analytics**  
-
-<div align="center">
-  
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHassan-Ahmed&show_icons=true&theme=radical&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)](https://github.com/AhmedHassan-Ahmed)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassan-Ahmed&layout=compact&theme=radical&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)](https://github.com/AhmedHassan-Ahmed)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedHassan-Ahmed&theme=radical&border=00F5FF&background=0D1117&stroke=FFFFFF&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🌐 **Let’s Build Something Amazing!**  
 

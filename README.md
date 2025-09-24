@@ -4,8 +4,7 @@ Designed with ❤️ | Futuristic • Clean • Animated • Developer-Centric
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I%27m+Ahmed+Hassan+Ahmed;🎯+Aspiring+Full-Stack+Developer;🚀+Frontend+Dev+Intern+at+Codveda;⚡+Learning+React%2C+OOP%2C+Data+Structures" alt="Typing SVG" />
-</div>
+ 
 
 <br/>
 
@@ -26,7 +25,13 @@ Designed with ❤️ | Futuristic • Clean • Animated • Developer-Centric
 ---
 
 ## 🌌 **My Origin Story**  
-From my first console.log("Hello, World!") to building responsive UIs, I’ve learned that great software begins with curiosity and persistence — and I’m driven to master both frontend and backend as a future full-stack developer. 
+From my first console.log("Hello, World!") to building with React, I’ve taken my first steps as a web developer. 
+I will learn more and more, every single day.
+The backend awaits. and I will meet it with the same discipline, curiosity, and relentless drive.
+Step by step, line by line, I’m forging myself into a true full-stack developer. Algorithms challenge me. New concepts rise like mountains.
+And like a warrior of code, I do not seek to be perfect — only to keep walking the path.
+More lines. More errors. More lessons. More growth.
+This is my way. 
 
 I’m **Ahmed Hassan Ahmed** — an aspiring **full-stack developer** with a passion for **problem-solving and creative coding**.  
 
@@ -50,7 +55,7 @@ This internship is a **major milestone** in my journey — I’m thrilled to gro
 | Frontend (HTML/CSS/JS)            | 🎨 Solid Foundation (100%)    |
 | React.js                          | ⚛️ Currently Learning 🚀      |
 | OOP & Data Structures             | 🧠 Currently Learning         |
-| Full-Stack Aspirations            | 🌍 100% (in progress!)        |
+| Full-Stack Aspirations            | 🌍 (in progress!)        |
 | Daily Coding Streak               | 💯 7+ days+                   |
 
 ---

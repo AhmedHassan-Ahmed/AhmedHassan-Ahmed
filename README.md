@@ -85,16 +85,7 @@ Whether I’m debugging a race condition or crafting a sleek React component, I 
 
 ---
 
-## 📊 **GitHub Analytics**  
 
-<div align="center">
-  
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHassan-Ahmed&show_icons=true&theme=radical&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)](https://github.com/AhmedHassan-Ahmed)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassan-Ahmed&layout=compact&theme=radical&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)](https://github.com/AhmedHassan-Ahmed)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedHassan-Ahmed&theme=radical&border=00F5FF&background=0D1117&stroke=FFFFFF&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
